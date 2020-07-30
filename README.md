@@ -1,6 +1,6 @@
 # myproject
 
-> A Vue.js project
+> A Vue.js project,作为一个学习Vue的一个小程序，目前只有答题功能。主要是体现Vue框架。
 
 # 项目演示
 http://www.jiangguangyuanserver.cn:8080/firstApp

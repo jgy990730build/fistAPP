@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+# 项目演示
+http://www.jiangguangyuanserver.cn:8080/firstApp
+
 ## Build Setup
 
 ``` bash
